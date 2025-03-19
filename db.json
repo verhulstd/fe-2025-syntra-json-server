@@ -1,0 +1,96 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "text": "Buy milk",
+      "description": "Buy milk from the store",
+      "checked": false,
+      "categoryId": "1"
+    },
+    {
+      "id": "2",
+      "text": "Do laundry",
+      "description": "Do laundry and clean the house",
+      "checked": false,
+      "categoryId": "2"
+    },
+    {
+      "id": "3",
+      "text": "Buy new shoes",
+      "description": "Buy new shoes from the store",
+      "checked": false,
+      "categoryId": "4"
+    },
+    {
+      "id": "4",
+      "text": "Buy new clothes",
+      "description": "Buy new clothes from the store",
+      "checked": false,
+      "categoryId": "4"
+    },
+    {
+      "id": "5",
+      "text": "Buy new books",
+      "description": "Buy new books from the library",
+      "checked": false,
+      "categoryId": "3"
+    },
+    {
+      "id": "6",
+      "text": "Buy new phone",
+      "description": "Buy new phone from the store",
+      "checked": false,
+      "categoryId": "4"
+    },
+    {
+      "id": "7",
+      "text": "Buy new laptop",
+      "description": "Buy new laptop from the store",
+      "checked": false,
+      "categoryId": "4"
+    },
+    {
+      "id": "8",
+      "text": "Buy new TV",
+      "description": "Buy new TV from the store",
+      "checked": false,
+      "categoryId": "4"
+    },
+    {
+      "id": "9",
+      "text": "Buy new bike",
+      "description": "Buy new bike from the store",
+      "checked": false,
+      "categoryId": "4"
+    },
+    {
+      "id": "10",
+      "text": "Buy new car",
+      "description": "Buy new car from the store",
+      "checked": false,
+      "categoryId": "4"
+    }
+  ],
+  "categorys": [
+    {
+      "id": "1",
+      "color": "red",
+      "name": "Work"
+    },
+    {
+      "id": "2",
+      "color": "blue",
+      "name": "Personal"
+    },
+    {
+      "id": "3",
+      "color": "green",
+      "name": "Shopping"
+    },
+    {
+      "id": "4",
+      "color": "yellow",
+      "name": "Fitness"
+    }
+  ]
+}
