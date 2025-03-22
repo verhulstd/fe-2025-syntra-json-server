@@ -2,7 +2,7 @@
   "todos": [
     {
       "id": "1",
-      "text": "Buy milk",
+      "text": "Buy milk for Bruno",
       "description": "Buy milk from the store",
       "checked": false,
       "categoryId": "1"
